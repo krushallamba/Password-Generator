@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(189, 247, 227);
+    background: linear-gradient(45deg, #D5FFE4, #6F61C0);
     color: #000000;
     font-weight: 500;
 }
@@ -21,7 +21,7 @@ body {
     border-radius: 10px;
     padding: 28px 32px;
     flex-direction: column;
-    background: transparent;
+    background: inherit;
     box-shadow: 8px 8px 4px #909090, 8px 8px 0px #575757;
 }
 
